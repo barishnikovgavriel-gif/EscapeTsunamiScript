@@ -1,0 +1,5 @@
+local Games = {
+  [131623223084840] = "https://raw.githubusercontent.com/AmeloxRUS/brainrotshit/refs/heads/main/www" -- Escape Tsunami For Brainrot
+}
+
+return Games
